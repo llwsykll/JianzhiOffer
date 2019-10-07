@@ -1,0 +1,109 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GetLeastNums",
+            "request": "launch",
+            "mainClass": "GetLeastNums",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MoreThanHalfNum",
+            "request": "launch",
+            "mainClass": "MoreThanHalfNum",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintMatrix",
+            "request": "launch",
+            "mainClass": "PrintMatrix",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IsNumeric",
+            "request": "launch",
+            "mainClass": "IsNumeric",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Match",
+            "request": "launch",
+            "mainClass": "Match",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintToMaxOfNDigits",
+            "request": "launch",
+            "mainClass": "PrintToMaxOfNDigits",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MovingCount",
+            "request": "launch",
+            "mainClass": "MovingCount",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RebuildBinaryTree",
+            "request": "launch",
+            "mainClass": "RebuildBinaryTree",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintListNode",
+            "request": "launch",
+            "mainClass": "PrintListNode",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReplaceSpace",
+            "request": "launch",
+            "mainClass": "ReplaceSpace",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - arrayFid",
+            "request": "launch",
+            "mainClass": "arrayFid",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RepeatTwo",
+            "request": "launch",
+            "mainClass": "RepeatTwo",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - repeat",
+            "request": "launch",
+            "mainClass": "repeat",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - repeat",
+            "request": "launch",
+            "mainClass": "数组中重复的数字.repeat",
+            "projectName": "剑指Offer_51e5e65d"
+        }
+    ]
+}
