@@ -13,6 +13,7 @@ class TreeNode {
 public class PrintTree {
     public ArrayList<Integer> PrintFromTopToBottom(TreeNode root) {
         Queue<TreeNode> que = new LinkedList<TreeNode>();
+        que.element()
         ArrayList<Integer> res = new ArrayList<Integer>();
         if (root == null) {
             return res;

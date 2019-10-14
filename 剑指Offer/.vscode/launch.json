@@ -2,6 +2,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Multiply",
+            "request": "launch",
+            "mainClass": "Multiply",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SliceWindow",
+            "request": "launch",
+            "mainClass": "SliceWindow",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingleNumOfThree",
+            "request": "launch",
+            "mainClass": "SingleNumOfThree",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingleNum",
+            "request": "launch",
+            "mainClass": "SingleNum",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KthTreeNode",
+            "request": "launch",
+            "mainClass": "KthTreeNode",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GetFirstK",
+            "request": "launch",
+            "mainClass": "GetFirstK",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InvertParis",
+            "request": "launch",
+            "mainClass": "InvertParis",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestSubNoDup",
+            "request": "launch",
+            "mainClass": "LongestSubNoDup",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GetMaxValue",
+            "request": "launch",
+            "mainClass": "GetMaxValue",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GetTranslationCount",
+            "request": "launch",
+            "mainClass": "GetTranslationCount",
+            "projectName": "剑指Offer_51e5e65d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - GetLeastNums",
             "request": "launch",
             "mainClass": "GetLeastNums",
